@@ -1,2 +1,1 @@
-# Arithmetic-Sequence-Calculator
-...
+# Arithmetic Sequence Calculator for the TI-84 Plus CE/CSE
