@@ -1,1 +1,5 @@
-
+print("\nArithmetic Sequence Calculator")
+print("a = The Nth Term of the Sequence")
+print("b = The First Term of the Sequence")
+print("d = The distance between each term of the Sequence")
+print("n = ")
