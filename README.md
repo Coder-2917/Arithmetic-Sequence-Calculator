@@ -17,4 +17,4 @@ Then, you press [enter] twice to run it.
 I have submitted this program in the [Cemetech Archives](https://www.cemetech.net/downloads), so for anyone who wants it they can find it [here](https://www.cemetech.net/downloads/files/2607/x3339)
 
 # 
-Also, for anyone who found this program here **AND** wants the program **just** for their calculator, you can ignore Arithseq_Python_Port.py. It's just the program ported to Python.
+Also, for anyone who found this program here and wants the program **just** for their calculator, you can ignore Arithseq_Python_Port.py. It's just the program ported to Python.
